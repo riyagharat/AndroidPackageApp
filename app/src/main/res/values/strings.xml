@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Package Deliveries</string>
+    <string name="action_settings">Settings</string>
+    <string name="confirm">Confirm a Delivery</string>
+    <string name="enter">Enter a Package</string>
+    <string name="welcome1">Welcome to the Packaging App!</string>
+    <string name="welcome2">Select one of the options from below.</string>
+    <string name="view">View Package By Customer Name</string>
+    <string name="instructionsForm">Enter the following information and hit submit.</string>
+    <string name="firstName">First Name: </string>
+    <string name="middleInitial">Middle Initial: </string>
+    <string name="lastName">Last Name: </string>
+    <string name="roadLocation">Road: </string>
+    <string name="phoneNumber">Phone Number: </string>
+    <string name="doorNumber">Door Number: </string>
+    <string name="city">City: </string>
+    <string name="state">State: </string>
+    <string name="zipCode">Zip Code: </string>
+    <string name="arrivalDate">Arrival Date: </string>
+    <string name="TRKNumber">Tracking Number: </string>
+    <string name="from">From Information</string>
+    <string name="to">To Information</string>
+    <string name="hintFN">Enter First Name</string>
+</resources>

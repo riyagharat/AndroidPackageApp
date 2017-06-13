@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\QEC\\AndroidStudioProjects\\AndroidPackageApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "C:\\Users\\QEC\\.android\\build-cache\\de72f3d21318db59f1d8469f8c0792c0a99621b1\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            }
+        ]
+    }
+]
