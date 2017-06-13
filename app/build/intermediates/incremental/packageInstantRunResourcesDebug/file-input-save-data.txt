@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Jun 13 13:56:00 EDT 2017
+#Tue Jun 13 14:33:36 EDT 2017
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=C\:\\Users\\QEC\\AndroidStudioProjects\\AndroidPackageApp\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml

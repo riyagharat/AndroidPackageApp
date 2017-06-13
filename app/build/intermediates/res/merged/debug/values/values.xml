@@ -645,7 +645,6 @@
     <integer name="hide_password_duration">320</integer>
     <integer name="show_password_duration">200</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
-    <string name="TRKNumber">Tracking Number: </string>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -680,44 +679,36 @@
     <string name="action_settings">Settings</string>
     <string name="app_name">Package Deliveries</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
-    <string name="arrivalDate">Arrival Date: </string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
-    <string name="city">City: </string>
     <string name="confirm">Confirm a Delivery</string>
-    <string name="doorNumber">Door Number: </string>
+    <string name="continueRecipient">Continue to Recipient Information</string>
     <string name="enter">Enter a Package</string>
-    <string name="firstName">First Name: </string>
-    <string name="from">From Information</string>
+    <string name="from">Sender Information</string>
     <string name="hintArrivalDate">Enter an Arrival Date</string>
     <string name="hintCity">Enter a City</string>
     <string name="hintDoorNumber">Enter a Door Number</string>
     <string name="hintFN">Enter First Name</string>
     <string name="hintLN">Enter Last Name</string>
     <string name="hintMI">Enter Middle Initial</string>
+    <string name="hintName">Enter Name of Organization</string>
     <string name="hintPhoneNumber">Enter a Phone Number</string>
     <string name="hintRoadLocation">Enter a Road Address</string>
     <string name="hintState">Enter a State</string>
     <string name="hintTRKNumber">Enter a Tracking Number</string>
     <string name="hintZip">Enter a Zip Code</string>
     <string name="instructionsForm">Enter the following information and hit submit.</string>
-    <string name="lastName">Last Name: </string>
-    <string name="middleInitial">Middle Initial: </string>
     <string name="password_toggle_content_description">Toggle password visibility</string>
     <string name="path_password_eye" translatable="false">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
     <string name="path_password_eye_mask_strike_through" translatable="false">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible" translatable="false">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
-    <string name="phoneNumber">Phone Number: </string>
-    <string name="roadLocation">Road: </string>
     <string name="search_menu_title">Search</string>
-    <string name="state">State: </string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="to">To Information</string>
     <string name="view">View Package By Customer Name</string>
     <string name="welcome1">Welcome to the Packaging App!</string>
     <string name="welcome2">Select one of the options from below.</string>
-    <string name="zipCode">Zip Code: </string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>

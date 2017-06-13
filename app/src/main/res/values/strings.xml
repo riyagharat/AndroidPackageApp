@@ -7,18 +7,7 @@
     <string name="welcome2">Select one of the options from below.</string>
     <string name="view">View Package By Customer Name</string>
     <string name="instructionsForm">Enter the following information and hit submit.</string>
-    <string name="firstName">First Name: </string>
-    <string name="middleInitial">Middle Initial: </string>
-    <string name="lastName">Last Name: </string>
-    <string name="roadLocation">Road: </string>
-    <string name="phoneNumber">Phone Number: </string>
-    <string name="doorNumber">Door Number: </string>
-    <string name="city">City: </string>
-    <string name="state">State: </string>
-    <string name="zipCode">Zip Code: </string>
-    <string name="arrivalDate">Arrival Date: </string>
-    <string name="TRKNumber">Tracking Number: </string>
-    <string name="from">From Information</string>
+    <string name="from">Sender Information</string>
     <string name="to">To Information</string>
     <string name="hintFN">Enter First Name</string>
     <string name="hintMI">Enter Middle Initial</string>
@@ -31,4 +20,6 @@
     <string name="hintPhoneNumber">Enter a Phone Number</string>
     <string name="hintArrivalDate">Enter an Arrival Date</string>
     <string name="hintTRKNumber">Enter a Tracking Number</string>
+    <string name="hintName">Enter Name of Organization</string>
+    <string name="continueRecipient">Continue to Recipient Information</string>
 </resources>

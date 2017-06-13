@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Jun 13 13:56:04 EDT 2017
+#Tue Jun 13 14:33:38 EDT 2017
 210.set=ANDROID_RESOURCE
 282.file=C\:\\Users\\QEC\\AndroidStudioProjects\\AndroidPackageApp\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\abc_search_view.xml
 14.set=ANDROID_RESOURCE
