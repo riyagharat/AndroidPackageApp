@@ -21,4 +21,6 @@
     <string name="from">From Information</string>
     <string name="to">To Information</string>
     <string name="hintFN">Enter First Name</string>
+    <string name="hintMI">Enter Middle Initial</string>
+    <string name="hintLN">Enter Last Name</string>
 </resources>

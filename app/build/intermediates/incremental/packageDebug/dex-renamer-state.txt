@@ -1,4 +1,4 @@
-#Mon Jun 12 15:53:28 EDT 2017
+#Tue Jun 13 10:30:13 EDT 2017
 base.0=C\:\\Users\\QEC\\AndroidStudioProjects\\AndroidPackageApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9010f77dfeb52036a034fc6e3c44046233a5bab4
 renamed.1=classes.dex
 renamed.0=classes2.dex
