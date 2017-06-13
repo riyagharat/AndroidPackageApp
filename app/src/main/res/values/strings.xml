@@ -23,4 +23,12 @@
     <string name="hintFN">Enter First Name</string>
     <string name="hintMI">Enter Middle Initial</string>
     <string name="hintLN">Enter Last Name</string>
+    <string name="hintRoadLocation">Enter a Road Address</string>
+    <string name="hintCity">Enter a City</string>
+    <string name="hintDoorNumber">Enter a Door Number</string>
+    <string name="hintState">Enter a State</string>
+    <string name="hintZip">Enter a Zip Code</string>
+    <string name="hintPhoneNumber">Enter a Phone Number</string>
+    <string name="hintArrivalDate">Enter an Arrival Date</string>
+    <string name="hintTRKNumber">Enter a Tracking Number</string>
 </resources>

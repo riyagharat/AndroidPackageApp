@@ -1,4 +1,4 @@
-#Mon Jun 12 11:33:34 EDT 2017
+#Tue Jun 13 11:09:44 EDT 2017
 file.2=C\:\\Users\\QEC\\AndroidStudioProjects\\AndroidPackageApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_102218f62e88cd10b5d14071dcf07cba71e57c11\\classes.dex
 base.2=C\:\\Users\\QEC\\AndroidStudioProjects\\AndroidPackageApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_102218f62e88cd10b5d14071dcf07cba71e57c11
 file.1=C\:\\Users\\QEC\\AndroidStudioProjects\\AndroidPackageApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ab23581f41ddf1fb0792063a7b9551ad78f2ed57\\classes.dex
