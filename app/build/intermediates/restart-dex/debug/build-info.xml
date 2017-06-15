@@ -6,36 +6,30 @@
     density="xxhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1497378810485"
+    timestamp="1497533829765"
     token="2293669800555811900"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="1563" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="313" />
+        duration="0" />
     <task
         name="verifier"
-        duration="47" />
+        duration="0" />
 
-    <artifact
-        location="C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-        type="SPLIT" />
     <artifact
         location="C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\build\outputs\apk\app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1497376550266"
+        timestamp="1497531830478"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
@@ -76,14 +70,16 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1497378810485"
+        timestamp="1497533303437"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
-        <artifact
-            location="C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1497533829765"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\build\outputs\apk\app-debug.apk"
             type="SPLIT_MAIN" />

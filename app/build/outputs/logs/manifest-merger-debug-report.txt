@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:2:1-27:12
+ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:2:1-30:12
 	package
 		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:3:5-53
 		INJECTED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\And
 		INJECTED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:5:5-25:19
+ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:5:5-28:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\QEC\.android\build-cache\0c8a396f9d588c5230dfec094996a20bd46cc839\output\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:25.3.1] C:\Users\QEC\.android\build-cache\a2e41f9df16917ce5f528c9f2c58522f4e089ee2\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\QEC\.android\build-cache\de72f3d21318db59f1d8469f8c0792c0a99621b1\output\AndroidManifest.xml:29:5-20
@@ -63,6 +63,12 @@ ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\And
 		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:24:13-47
 	android:name
 		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:23:13-48
+activity#comriyagharat.github.androidpackageapp.PackFormActivityNext
+ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:25:9-27:49
+	android:label
+		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:27:13-47
+	android:name
+		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:26:13-49
 uses-sdk
 INJECTED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\QEC\.android\build-cache\0c8a396f9d588c5230dfec094996a20bd46cc839\output\AndroidManifest.xml:5:5-7:41

@@ -22,6 +22,9 @@
         <activity
             android:name=".PackageFormActivity"
             android:label="Enter Package Form"/>
+        <activity
+            android:name=".PackFormActivityNext"
+            android:label="Enter Package Form"/>
     </application>
 
 </manifest>

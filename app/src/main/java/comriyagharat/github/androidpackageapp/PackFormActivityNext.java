@@ -2,6 +2,7 @@ package comriyagharat.github.androidpackageapp;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.Toolbar;
 
 /**
  * Created by Riya on 6/13/2017.

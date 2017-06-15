@@ -3,6 +3,7 @@ package comriyagharat.github.androidpackageapp;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.Toast;
 
@@ -20,7 +21,7 @@ public class PackageFormActivity extends AppCompatActivity{
     }
 
     public void onClickNext(View v) {
-        Toast.makeText(this, "Go to Enter Package Form", Toast.LENGTH_LONG).show();
+        Toast.makeText(this, "Go to Receiver Form", Toast.LENGTH_LONG).show();
         Intent i = new Intent(PackageFormActivity.this, PackFormActivityNext.class);
         startActivity(i);
     }

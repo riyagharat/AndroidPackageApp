@@ -705,7 +705,7 @@
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="to">To Information</string>
+    <string name="to">Receiver Information</string>
     <string name="view">View Package By Customer Name</string>
     <string name="welcome1">Welcome to the Packaging App!</string>
     <string name="welcome2">Select one of the options from below.</string>

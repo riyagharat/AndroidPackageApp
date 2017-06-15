@@ -8,7 +8,7 @@
     <string name="view">View Package By Customer Name</string>
     <string name="instructionsForm">Enter the following information and hit submit.</string>
     <string name="from">Sender Information</string>
-    <string name="to">To Information</string>
+    <string name="to">Receiver Information</string>
     <string name="hintFN">Enter First Name</string>
     <string name="hintMI">Enter Middle Initial</string>
     <string name="hintLN">Enter Last Name</string>
@@ -22,4 +22,5 @@
     <string name="hintTRKNumber">Enter a Tracking Number</string>
     <string name="hintName">Enter Name of Organization</string>
     <string name="continueRecipient">Continue to Recipient Information</string>
+    <string name="submit">Submit</string>
 </resources>

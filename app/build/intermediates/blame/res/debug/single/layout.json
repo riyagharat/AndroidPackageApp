@@ -28,6 +28,10 @@
         "source": "C:\\Users\\QEC\\.android\\build-cache\\de72f3d21318db59f1d8469f8c0792c0a99621b1\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
+        "merged": "C:\\Users\\QEC\\AndroidStudioProjects\\AndroidPackageApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\enter_package_form_2.xml",
+        "source": "C:\\Users\\QEC\\AndroidStudioProjects\\AndroidPackageApp\\app\\src\\main\\res\\layout\\enter_package_form_2.xml"
+    },
+    {
         "merged": "C:\\Users\\QEC\\AndroidStudioProjects\\AndroidPackageApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
         "source": "C:\\Users\\QEC\\.android\\build-cache\\de72f3d21318db59f1d8469f8c0792c0a99621b1\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },

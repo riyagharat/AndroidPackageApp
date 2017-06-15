@@ -32,6 +32,9 @@
         <activity
             android:name="comriyagharat.github.androidpackageapp.PackageFormActivity"
             android:label="Enter Package Form" />
+        <activity
+            android:name="comriyagharat.github.androidpackageapp.PackFormActivityNext"
+            android:label="Enter Package Form" />
     </application>
 
 </manifest>
