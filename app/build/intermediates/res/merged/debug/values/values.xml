@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:ns1="http://schemas.android.com/tools">
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
     <attr format="reference" name="constraintSet"/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
@@ -642,6 +642,7 @@
     <integer name="bottom_sheet_slide_duration">150</integer>
     <integer name="cancel_button_image_alpha">127</integer>
     <integer name="design_snackbar_text_max_lines">2</integer>
+    <integer name="google_play_services_version">10084000</integer>
     <integer name="hide_password_duration">320</integer>
     <integer name="show_password_duration">200</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
@@ -679,12 +680,21 @@
     <string name="action_settings">Settings</string>
     <string name="app_name">Package Deliveries</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="back">Back</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
+    <string name="common_google_play_services_unknown_issue"><ns1:g id="app_name">%1$s</ns1:g> is having trouble with Google Play services. Please try again.</string>
     <string name="confirm">Confirm a Delivery</string>
     <string name="continueRecipient">Continue to Recipient Information</string>
+    <string name="default_web_client_id" translatable="false">95417098534-64uto799201k20odsnq7nll2t4nutboe.apps.googleusercontent.com</string>
     <string name="enter">Enter a Package</string>
+    <string name="firebase_database_url" translatable="false">https://androidpackageapp.firebaseio.com</string>
     <string name="from">Sender Information</string>
+    <string name="gcm_defaultSenderId" translatable="false">95417098534</string>
+    <string name="google_api_key" translatable="false">AIzaSyCb5hXzW0M0Z8IqIAmYCOSsnyF6OfBX_wI</string>
+    <string name="google_app_id" translatable="false">1:95417098534:android:ac3b62a21618e455</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCb5hXzW0M0Z8IqIAmYCOSsnyF6OfBX_wI</string>
+    <string name="google_storage_bucket" translatable="false">androidpackageapp.appspot.com</string>
     <string name="hintArrivalDate">Enter an Arrival Date</string>
     <string name="hintCity">Enter a City</string>
     <string name="hintDoorNumber">Enter a Door Number</string>
@@ -705,6 +715,7 @@
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="submit">Submit</string>
     <string name="to">Receiver Information</string>
     <string name="view">View Package By Customer Name</string>
     <string name="welcome1">Welcome to the Packaging App!</string>
@@ -2176,7 +2187,7 @@
     </style>
     <style name="Widget.Design.BottomSheet.Modal" parent="android:Widget">
         <item name="android:background">?android:attr/colorBackground</item>
-        <item name="android:elevation" ns1:ignore="NewApi">@dimen/design_bottom_sheet_modal_elevation</item>
+        <item name="android:elevation" ns2:ignore="NewApi">@dimen/design_bottom_sheet_modal_elevation</item>
         <item name="behavior_peekHeight">auto</item>
         <item name="behavior_hideable">true</item>
         <item name="behavior_skipCollapsed">false</item>

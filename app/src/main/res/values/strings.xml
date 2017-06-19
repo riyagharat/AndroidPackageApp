@@ -23,4 +23,5 @@
     <string name="hintName">Enter Name of Organization</string>
     <string name="continueRecipient">Continue to Recipient Information</string>
     <string name="submit">Submit</string>
+    <string name="back">Back</string>
 </resources>

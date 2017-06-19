@@ -25,4 +25,10 @@ public class PackageFormActivity extends AppCompatActivity{
         Intent i = new Intent(PackageFormActivity.this, PackFormActivityNext.class);
         startActivity(i);
     }
+
+    public void onClickBack (View v) {
+        Toast.makeText(this, "Go Back", Toast.LENGTH_LONG).show();
+        Intent i = new Intent(PackageFormActivity.this, MainActivity.class);
+        startActivity(i);
+    }
 }

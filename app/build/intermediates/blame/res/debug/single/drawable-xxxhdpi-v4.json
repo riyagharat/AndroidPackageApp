@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\QEC\\AndroidStudioProjects\\AndroidPackageApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "C:\\Users\\QEC\\.android\\build-cache\\de72f3d21318db59f1d8469f8c0792c0a99621b1\\output\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
         "merged": "C:\\Users\\QEC\\AndroidStudioProjects\\AndroidPackageApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png",
         "source": "C:\\Users\\QEC\\.android\\build-cache\\de72f3d21318db59f1d8469f8c0792c0a99621b1\\output\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\QEC\\AndroidStudioProjects\\AndroidPackageApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\QEC\\.android\\build-cache\\de72f3d21318db59f1d8469f8c0792c0a99621b1\\output\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "C:\\Users\\QEC\\AndroidStudioProjects\\AndroidPackageApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
@@ -16,12 +16,12 @@
         "source": "C:\\Users\\QEC\\.android\\build-cache\\de72f3d21318db59f1d8469f8c0792c0a99621b1\\output\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
-        "merged": "C:\\Users\\QEC\\AndroidStudioProjects\\AndroidPackageApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png",
-        "source": "C:\\Users\\QEC\\.android\\build-cache\\de72f3d21318db59f1d8469f8c0792c0a99621b1\\output\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
-    },
-    {
         "merged": "C:\\Users\\QEC\\AndroidStudioProjects\\AndroidPackageApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
         "source": "C:\\Users\\QEC\\.android\\build-cache\\de72f3d21318db59f1d8469f8c0792c0a99621b1\\output\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\QEC\\AndroidStudioProjects\\AndroidPackageApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\QEC\\.android\\build-cache\\de72f3d21318db59f1d8469f8c0792c0a99621b1\\output\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
         "merged": "C:\\Users\\QEC\\AndroidStudioProjects\\AndroidPackageApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
