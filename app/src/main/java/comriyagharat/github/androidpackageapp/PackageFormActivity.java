@@ -20,12 +20,14 @@ public class PackageFormActivity extends AppCompatActivity{
         setContentView(R.layout.enter_package_form);
     }
 
+    // On clicking the button, this method takes the user to the Receiver form screen
     public void onClickNext(View v) {
         Toast.makeText(this, "Go to Receiver Form", Toast.LENGTH_LONG).show();
         Intent i = new Intent(PackageFormActivity.this, PackFormActivityNext.class);
         startActivity(i);
     }
 
+    // On click the button, this method takes the user back to the main screen
     public void onClickBack (View v) {
         Toast.makeText(this, "Go Back", Toast.LENGTH_LONG).show();
         Intent i = new Intent(PackageFormActivity.this, MainActivity.class);

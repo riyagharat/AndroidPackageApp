@@ -19,6 +19,7 @@ public class PackFormActivityNext extends AppCompatActivity {
         setContentView(R.layout.enter_package_form_2);
     }
 
+    // On clicking this button, the user is taken back to the sender information screen
     public void onClickBackForm(View v) {
         Toast.makeText(this, "Go Back", Toast.LENGTH_LONG).show();
         Intent i = new Intent(PackFormActivityNext.this, PackageFormActivity.class);

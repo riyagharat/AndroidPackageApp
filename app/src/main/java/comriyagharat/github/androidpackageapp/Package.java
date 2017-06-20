@@ -11,11 +11,17 @@ public static class Package {
     public String checkDelivered;
     public String dateDelivered;
     public String dateArrived;
+
     public String fromPhone;
     public String fromCity;
     public String fromState;
     public String fromLocation;
     public String fromRoad;
     public String fromZip;
-    public String
+    public String fromFirstName;
+    public String fromLastName;
+    public String fromMiddleInitial;
+
+    public String toCity;
+
 }

@@ -30,20 +30,28 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+    // On clicking this button, the user currently gets a pop up message on the screen for
+    // confirm a delivery
     public void onClickConfirm(View v) {
         Toast.makeText(this, "Confirm a Package Delivery", Toast.LENGTH_LONG).show();
     }
 
+    // On clicking this button, the user moves forward to the form screen and can proceed to
+    // fill in the appropriate information
     public void onClickEnterPackage(View v){
         Toast.makeText(this, "Go to Enter Package Form", Toast.LENGTH_LONG).show();
         Intent i = new Intent(MainActivity.this, PackageFormActivity.class);
         startActivity(i);
     }
 
+    // On clicking this button, the user currently gets a pop up message on the screen for
+    // enter a last and first name to search for
     public void onClickViewPackage(View v){
         Toast.makeText(this, "Enter a First and Last Name", Toast.LENGTH_LONG).show();
     }
 
+    // This section, is not being implemented yet, but it is the menu ellipses in the top right
+    // Will be implemented eventually for easy navigation
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
