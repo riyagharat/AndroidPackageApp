@@ -6,7 +6,7 @@
     <string name="welcome1">Welcome to the Packaging App!</string>
     <string name="welcome2">Select one of the options from below.</string>
     <string name="view">View Package By Customer Name</string>
-    <string name="instructionsForm">Enter the following information and hit submit.</string>
+    <string name="instructionsForm">Enter the following information and hit submit, then continue.</string>
     <string name="from">Sender Information</string>
     <string name="to">Receiver Information</string>
     <string name="hintFN">Enter First Name</string>

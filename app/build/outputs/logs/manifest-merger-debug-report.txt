@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:2:1-30:12
+ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:2:1-31:12
 	package
 		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:3:5-53
 		INJECTED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml
@@ -13,8 +13,15 @@ ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\And
 	android:versionCode
 		INJECTED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\QEC\.android\build-cache\14b3976d3869d58aae8920fa1f906ed8715d23df\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\QEC\.android\build-cache\02fe61e3f97ebd611187dfab07c6d3a80ce8a8ba\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\QEC\.android\build-cache\68ffddca07132aabd3a3c8182778b37c2a4d59b0\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:5:5-28:19
+ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:6:5-29:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\QEC\.android\build-cache\0c8a396f9d588c5230dfec094996a20bd46cc839\output\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:25.3.1] C:\Users\QEC\.android\build-cache\a2e41f9df16917ce5f528c9f2c58522f4e089ee2\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\QEC\.android\build-cache\de72f3d21318db59f1d8469f8c0792c0a99621b1\output\AndroidManifest.xml:29:5-20
@@ -35,47 +42,47 @@ MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\QEC\.android\b
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\QEC\.android\build-cache\7613edc5f09fe45fe48a6cf5a9cbe8d2071eaca1\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\QEC\.android\build-cache\368bb15a8e56a8dda5877e071ef013cf0e1ac921\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:9:9-41
 	android:supportsRtl
-		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:11:9-35
 	android:roundIcon
-		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:10:9-54
 	android:allowBackup
-		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:7:9-35
 	android:icon
-		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:8:9-43
 	android:theme
-		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:12:9-40
 activity#comriyagharat.github.androidpackageapp.MainActivity
-ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:12:9-21:20
+ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:13:9-22:20
 	android:label
-		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:14:13-45
+		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:15:13-45
 	android:theme
-		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:15:13-56
+		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:16:13-56
 	android:name
-		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:13:13-41
+		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:14:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:16:13-20:29
+ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:17:17-69
+ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:20:27-74
 activity#comriyagharat.github.androidpackageapp.PackageFormActivity
-ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:22:9-24:49
+ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:23:9-25:49
 	android:label
-		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:24:13-47
+		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:25:13-47
 	android:name
-		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:23:13-48
+		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:24:13-48
 activity#comriyagharat.github.androidpackageapp.PackFormActivityNext
-ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:25:9-27:49
+ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:26:9-28:49
 	android:label
-		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:27:13-47
+		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:28:13-47
 	android:name
-		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:26:13-49
+		ADDED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml:27:13-49
 uses-sdk
 INJECTED from C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\QEC\.android\build-cache\0c8a396f9d588c5230dfec094996a20bd46cc839\output\AndroidManifest.xml:5:5-7:41
@@ -125,12 +132,6 @@ MERGED from [com.android.support:support-compat:25.3.1] C:\Users\QEC\.android\bu
 		ADDED from [com.android.support:design:25.3.1] C:\Users\QEC\.android\build-cache\a2e41f9df16917ce5f528c9f2c58522f4e089ee2\output\AndroidManifest.xml:27:9-31
 	android:name
 		ADDED from [com.android.support:design:25.3.1] C:\Users\QEC\.android\build-cache\a2e41f9df16917ce5f528c9f2c58522f4e089ee2\output\AndroidManifest.xml:26:9-47
-uses-permission#android.permission.INTERNET
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\QEC\.android\build-cache\14b3976d3869d58aae8920fa1f906ed8715d23df\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\QEC\.android\build-cache\02fe61e3f97ebd611187dfab07c6d3a80ce8a8ba\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\QEC\.android\build-cache\68ffddca07132aabd3a3c8182778b37c2a4d59b0\output\AndroidManifest.xml:20:5-66
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\QEC\.android\build-cache\14b3976d3869d58aae8920fa1f906ed8715d23df\output\AndroidManifest.xml:20:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\QEC\.android\build-cache\14b3976d3869d58aae8920fa1f906ed8715d23df\output\AndroidManifest.xml:21:5-78
 MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\QEC\.android\build-cache\02fe61e3f97ebd611187dfab07c6d3a80ce8a8ba\output\AndroidManifest.xml:21:5-78

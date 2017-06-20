@@ -5,6 +5,7 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <!-- Instructions on what to do for this form -->
     <TextView
         android:id="@+id/textView3"
         android:layout_width="wrap_content"
@@ -19,6 +20,7 @@
         app:layout_constraintVertical_bias="0.0"
         android:textSize="12sp"/>
 
+    <!-- Indicates which part of the form you are filling out -->
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -36,6 +38,7 @@
         android:textSize="12sp"
         android:textAlignment="center"/>
 
+    <!-- Prompt to enter first name of sender -->
     <EditText
         android:layout_width="260dp"
         android:inputType="text"
@@ -53,6 +56,7 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintHorizontal_bias="0.54" />
 
+    <!-- Prompt to enter middle initial of sender -->
     <EditText
         android:layout_width="259dp"
         android:layout_height="34dp"
@@ -69,6 +73,7 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintHorizontal_bias="0.544" />
 
+    <!-- Prompt to enter last name of sender -->
     <EditText
         android:id="@+id/editText2"
         android:layout_width="258dp"
@@ -87,6 +92,7 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintHorizontal_bias="0.539" />
 
+    <!-- Prompt to enter the road address of sender -->
     <EditText
         android:id="@+id/editText4"
         android:layout_width="256dp"
@@ -103,6 +109,7 @@
         android:layout_marginRight="8dp"
         app:layout_constraintRight_toRightOf="parent" />
 
+    <!-- Prompt to enter the city of sender -->
     <EditText
         android:id="@+id/editText5"
         android:layout_width="256dp"
@@ -119,6 +126,7 @@
         android:layout_marginEnd="8dp"
         app:layout_constraintHorizontal_bias="0.533" />
 
+    <!-- Prompt to enter the state of sender -->
     <EditText
         android:id="@+id/editText6"
         android:layout_width="257dp"
@@ -146,6 +154,7 @@
         app:layout_constraintTop_toTopOf="@+id/editText6"
         android:layout_marginTop="38dp" />
 
+    <!-- Prompt to enter the zip code of sender -->
     <EditText
         android:id="@+id/editText8"
         android:layout_width="254dp"
@@ -159,6 +168,7 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent" />
 
+    <!-- Prompt to enter the tracking number on the package -->
     <EditText
         android:id="@+id/editText9"
         android:layout_width="252dp"
@@ -172,6 +182,7 @@
         app:layout_constraintTop_toTopOf="@+id/editText8"
         android:layout_marginTop="28dp" />
 
+    <!-- Prompt to enter the Name of the organization which sent the package -->
     <EditText
         android:id="@+id/editText10"
         android:layout_width="252dp"
@@ -188,6 +199,7 @@
         android:layout_marginTop="8dp"
         app:layout_constraintVertical_bias="0.213" />
 
+    <!-- Button that enables the user to continue to the Recipient Information screen -->
     <Button
         android:id="@+id/button"
         android:layout_width="wrap_content"
@@ -204,6 +216,7 @@
         app:layout_constraintHorizontal_bias="1.0"
         android:onClick="onClickNext"/>
 
+    <!-- Button that enables the user to return to the main screen -->
     <Button
         android:id="@+id/button4"
         android:layout_width="wrap_content"
@@ -220,5 +233,13 @@
         android:layout_marginLeft="8dp"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintHorizontal_bias="0.846" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/submit"
+        tools:layout_editor_absoluteX="49dp"
+        tools:layout_editor_absoluteY="376dp" />
 
 </android.support.constraint.ConstraintLayout>
