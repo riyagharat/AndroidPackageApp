@@ -10,6 +10,9 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import com.firebase.client.Firebase;
+import com.google.firebase.*;
+
 /**
  * Created by Riya on 6/12/2017.
  * UNF, N00901846
@@ -51,6 +54,33 @@ public class PackageFormActivity extends AppCompatActivity{
         Toast.makeText(this, "Go to Receiver Form", Toast.LENGTH_LONG).show();
         Intent i = new Intent(PackageFormActivity.this, PackFormActivityNext.class);
         startActivity(i);
+
+        Firebase ref = new Firebase(Config.FIREBASE_URL);
+
+        String fName = editTextFirstName.getText().toString().trim();
+        String lName = editTextLastName.getText().toString().trim();
+        String mI = editTextMiddleInitial.getText().toString().trim();
+        String road = editTextRoad.getText().toString().trim();
+        String city = editTextCity.getText().toString().trim();
+        String state = editTextState.getText().toString().trim();
+        String zip = editTextZip.getText().toString().trim();
+        String arrival = editTextArrival.getText().toString().trim();
+        String tracking = editTextArrival.getText().toString().trim();
+        String organization = editTextOrganization.getText().toString().trim();
+
+        Package box = new Package();
+        box.setFromFirstName(fName);
+        box.setFromLastName(lName);
+        box.setFromMiddleInitial(mI);
+        box.setFromRoad(road);
+        box.setFromCity(city);
+        box.setFromState(state);
+        box.setFromZip(zip);
+        box.setDateArrived(arrival);
+        box.setTrackingNumber(tracking);
+        box.setFromLocation(organization);
+
+        ref.child("Package").setValue(box);
     }
 
     // On click the button, this method takes the user back to the main screen

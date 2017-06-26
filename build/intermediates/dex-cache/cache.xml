@@ -30,6 +30,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\QEC\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\tubesock-0.0.12_89f9e4ed004fa3076e76b22df7a961d0148e318f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\QEC\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.5.2\91731b8f5868a3e8a8a773f29b8d06b5c358f5bb\firebase-client-jvm-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-jvm-2.5.2_9ab92c4df779b1b3c7f919a9f01b0618d5ab0385\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\QEC\.android\build-cache\baf210c872c07e4e131aa8c5b49bad2ed44f0206\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -43,8 +61,17 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="5a5cec8a930f1546f6b4f5687244dc1edc203e04">
+        sha1="6ee229be1fb7e55d987988185ae89bddfdb607f9">
         <dex dex="C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_663873d9b8eceea7c614c872961c1e725abb76a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\QEC\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.2.2_cc92041c52e07f93920af866fc981a8344c877ca\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -75,12 +102,39 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\QEC\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.5.2\f19f10d6276aa0b380e2d05d2ab3272d693a5433\firebase-client-android-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-android-2.5.2_303af608fc18447455e487f56ca51713a8ee4ce0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\QEC\.android\build-cache\14b3976d3869d58aae8920fa1f906ed8715d23df\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
         <dex dex="C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_63430b13c8e5cb6c1401ea24a9be95aec7691970\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\QEC\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.2.2_b26413d0ebbd6d6f9bcd3e88b9f0836e23c0a8be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\QEC\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\QEC\AndroidStudioProjects\AndroidPackageApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.2.2_1412ee1a699601bff3ba96dbc8f36fe4e946dd16\classes.dex" />
     </item>
     <item
         is-multidex="true"
